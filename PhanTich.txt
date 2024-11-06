@@ -1,0 +1,14 @@
+1. Thông báo kỹ thuật:
+Đường trung bình động (MA - Moving Average): Đường MA (bao gồm MA ngắn hạn như MA 20, MA 50 và MA dài hạn như MA 200)
+Chỉ số sức mạnh tương đối (RSI - Relative Strength Index)
+Bollinger Bands
+MACD (Moving Average Convergence Divergence)
+Khối lượng giao dịch (Volume)
+2. Đọc cá tin tức liên quan
+3. Phân tích tâm lý thị trường
+Chỉ số sợ hãi và tham lam (Fear and Greed Index)
+Hoạt động của cá voi (whales)
+Các mô hình:
+Mô hình sóng Elliott (Elliott Wave)
+
+Tính toán các đợt giá bitcoin có biến động bất thường và ghi nhớ nó xem bây giờ giá có đang bất thường không
